@@ -55,3 +55,17 @@
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
+
+## ❤️ Let's get connected:
+
+<p>
+<a href="https://dev.to/prashantpandey05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prashantpandey05" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashant-pandey-43a65b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-pandey-43a65b244" height="30" width="40" /></a>
+<a href="https://instagram.com/prashant.pandey05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant.pandey05" height="30" width="40" /></a>
+</p>
+
+## 📊 My GitHub Data:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantpandey05&show_icons=true&locale=en&layout=compact" alt="prashantpandey05" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantpandey05&" alt="prashantpandey05" /></p>
